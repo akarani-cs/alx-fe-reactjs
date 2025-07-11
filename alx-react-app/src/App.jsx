@@ -6,6 +6,7 @@ import './App.css'
 import Header from './Header';
 import MainContent from './MainContent.jsx'
 import Footer from './Footer'
+import UserProfile from './Userprofile.jsx'
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         <WelcomeMessage />
         <Header />
         <MainContent />
+        <UserProfile name="Alice" age="25" bio="Loves hiking and photography" />
         <Footer />
         
       </div>
