@@ -7,6 +7,7 @@ import Header from './components/Header';
 import MainContent from './components/MainContent.jsx'
 import Footer from './components/Footer'
 import UserProfile from './components/Userprofile.jsx'
+import Counter from './components/Counter.jsx'
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
         <WelcomeMessage />
         <Header />
         <MainContent />
+        <Counter />
         <UserProfile name="Alice" age="25" bio="Loves hiking and photography" />
         <Footer />
         
