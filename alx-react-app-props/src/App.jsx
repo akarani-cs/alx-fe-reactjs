@@ -6,7 +6,7 @@ import './App.css'
 
 
 import Profilepage from './ProfilePage.jsx'
-import UserContext from './UserContext.jsx'
+import UserContext from './UserContext.js'
 
 
 function App() {
