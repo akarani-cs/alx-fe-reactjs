@@ -3,10 +3,10 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import Header from './Header';
-import MainContent from './MainContent.jsx'
-import Footer from './Footer'
-import UserProfile from './Userprofile.jsx'
+import Header from './components/Header';
+import MainContent from './components/MainContent.jsx'
+import Footer from './components/Footer'
+import UserProfile from './components/Userprofile.jsx'
 
 
 function App() {

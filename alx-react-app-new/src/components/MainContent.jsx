@@ -1,13 +1,20 @@
 function MainContent() {
     return (
-        <div>
-<main>
-  <p>I love to visit New York, Paris, and Tokyo.</p>
+
+
+
+         <div>
+<main style={{ backgroundColor: 'navy', color: 'white', textAlign: 'center' }}>
+
+  {/*style= backgroundColor: 'navy', color: 'white', textAlign: 'center'*/}
+
+  <p >I love to visit New York, Paris, and Tokyo.</p>
+
 </main>
             
-   
-
         </div>
+
+
     );
 }
 
