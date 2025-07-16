@@ -4,7 +4,7 @@ function Navbar () {
 
     return (
         <div style = {{ padding: '20px', alignContent: 'center', border: '1px solid black' }}>
-        <nav>
+        <nav style = {{backgroundColor:'black', display:'flex', justifyContent:'center', padding: '10px'}}>
       <Link to="/">Home</Link> |{" "}
       <Link to="/about">About</Link> |{" "}
       <Link to="/contact">Contact</Link>
@@ -15,3 +15,4 @@ function Navbar () {
 
 
 export default Navbar;
+
