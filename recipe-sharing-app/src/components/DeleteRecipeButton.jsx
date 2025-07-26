@@ -1,6 +1,8 @@
 import React from "react";
 import { useRecipeStore } from "../stores/recipeStore";
 
+//["useNavigate"]
+
 const DeleteRecipe = () => {
   const recipes = useRecipeStore(state =>
     state.filteredRecipes.length > 0 ? state.filteredRecipes : state.recipes
