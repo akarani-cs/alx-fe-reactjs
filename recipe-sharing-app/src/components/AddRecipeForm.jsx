@@ -1,4 +1,4 @@
- // AddRecipeForm component
+// AddRecipeForm component
 import { useState } from 'react';
 import { useRecipeStore } from '../store/recipeStore';
 
