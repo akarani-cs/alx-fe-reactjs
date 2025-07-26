@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import useRecipeStore from '../store/RecipeStore'; // Adjust the path to your Zustand store
+import useRecipeStore from './recipeStore'; // Adjust the path to your Zustand store
 
 const Home = () => {
   const { recipes } = useRecipeStore();

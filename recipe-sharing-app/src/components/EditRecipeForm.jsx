@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import useRecipeStore from '../store/RecipeStore'; // Adjust the path to your store
+import useRecipeStore from './recipeStore'; // Adjust the path to your store
 
 const EditRecipeForm = ({ recipeId, onClose }) => {
   const { recipes, updateRecipe } = useRecipeStore();

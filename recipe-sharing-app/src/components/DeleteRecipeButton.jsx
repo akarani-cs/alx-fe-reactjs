@@ -1,5 +1,5 @@
 import React from "react";
-import { useRecipeStore } from "../stores/useRecipeStore";
+import { useRecipeStore } from "../stores/recipeStore";
 
 const DeleteRecipe = () => {
   const recipes = useRecipeStore(state =>

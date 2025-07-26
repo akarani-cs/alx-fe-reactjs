@@ -1,5 +1,5 @@
 import { useParams, useNavigate } from 'react-router-dom';
-import useRecipeStore from '../store/RecipeStore'; // adjust the import path if needed
+import useRecipeStore from './recipeStore'; // adjust the import path if needed
 
 const RecipeDetails = () => {
   const { id } = useParams(); // get recipe ID from URL
