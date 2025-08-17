@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "summary": "A classic Italian pasta dish with eggs, cheese, bacon, and black pepper.",
+    "image": "https://via.placeholder.com/150",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta or bacon",
+      "2 large eggs",
+      "50g grated parmesan cheese",
+      "2 cloves garlic",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Cook the spaghetti in salted boiling water until al dente.",
+      "Fry the pancetta/bacon with garlic until crispy, then remove garlic.",
+      "Whisk eggs and parmesan in a bowl.",
+      "Drain pasta and quickly toss with bacon, then remove from heat.",
+      "Mix in egg and cheese mixture (off the heat) to create a creamy sauce.",
+      "Season with black pepper and serve immediately."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Chicken Tikka Masala",
+    "summary": "Chunks of grilled chicken (tikka) cooked in a smooth buttery & creamy tomato based gravy.",
+    "image": "https://via.placeholder.com/150",
+    "ingredients": [
+      "500g chicken breast (cubed)",
+      "200g plain yogurt",
+      "2 tbsp tikka masala spice mix",
+      "2 tbsp butter",
+      "1 onion, finely chopped",
+      "2 cups tomato puree",
+      "1/2 cup cream",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt and tikka masala spices for at least 1 hour.",
+      "Grill or pan-fry chicken until partially cooked, set aside.",
+      "In a pan, sauté onions in butter until golden.",
+      "Add tomato puree and simmer for 10 minutes.",
+      "Add chicken pieces and cook until fully done.",
+      "Stir in cream, season with salt, and simmer until thickened.",
+      "Serve hot with rice or naan."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Avocado Toast",
+    "summary": "Toasted bread topped with smashed avocado, lemon juice, and a sprinkle of chili flakes.",
+    "image": "https://via.placeholder.com/150",
+    "ingredients": [
+      "2 slices of bread",
+      "1 ripe avocado",
+      "1 tsp lemon juice",
+      "Salt and pepper to taste",
+      "Chili flakes (optional)"
+    ],
+    "instructions": [
+      "Toast the bread slices until golden brown.",
+      "Mash the avocado in a bowl with lemon juice, salt, and pepper.",
+      "Spread the avocado mixture on the toasted bread.",
+      "Sprinkle chili flakes on top for extra flavor.",
+      "Serve immediately."
+    ]
+  }
+]
