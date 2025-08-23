@@ -72,3 +72,6 @@ const RegistrationForm = () => {
 };
 
 export default RegistrationForm;
+
+
+//"if (!username", "if (!email)", "if (!password)", "setErrors"
