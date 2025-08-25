@@ -1,6 +1,10 @@
 import { BrowserRouter as Router, Routes, Route, Link, Navigate, Outlet, useParams } from "react-router-dom"
 import { useState } from "react"
 import "./App.css"
+import Profile from "./components/Profile"
+import ProfileDetails from "./components/ProfileDetails"
+import ProfileSettings from "./components/ProfileSettings"
+
 
 // ----- Example Pages -----
 function Home() {
