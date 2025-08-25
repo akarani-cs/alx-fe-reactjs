@@ -4,7 +4,6 @@ import "./App.css"
 import Profile from "./components/Profile"
 import ProfileDetails from "./components/ProfileDetails"
 import ProfileSettings from "./components/ProfileSettings"
-import ProtectedRoute from "./components/ProtectedRoute"
 
 
 
