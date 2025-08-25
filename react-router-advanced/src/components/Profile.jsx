@@ -23,3 +23,6 @@ function Profile() {
 }
 
 export default Profile
+
+
+//"Routes", "Route", "ProfileDetails", "ProfileSettings"
