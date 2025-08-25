@@ -163,3 +163,6 @@ function App() {
 }
 
 export default App
+
+
+//"/blog/:id"
