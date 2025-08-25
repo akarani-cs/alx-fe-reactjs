@@ -1,4 +1,3 @@
-// src/components/Profile.jsx
 import { Link, Outlet } from "react-router-dom"
 
 function Profile() {
@@ -15,7 +14,7 @@ function Profile() {
         </Link>
       </nav>
 
-      {/* Nested Routes will render here */}
+      {/* Nested routes render here */}
       <div className="mt-4">
         <Outlet />
       </div>

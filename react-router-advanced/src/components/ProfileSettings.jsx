@@ -1,4 +1,3 @@
-// src/components/ProfileSettings.jsx
 function ProfileSettings() {
   return (
     <div>
